@@ -1,0 +1,29 @@
+body {
+    background: lightcyan;
+    width: 800px;
+    margin: auto;
+}
+
+header {
+    float: left;
+    width: 800px;
+}
+
+h1 {
+    color: maroon;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    //border: 1px solid gray;
+    padding: 10px;
+}
+
+.contact, .sitemap {
+    width: 400px;
+    float: left;
+}
+
+
+
